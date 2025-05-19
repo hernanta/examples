@@ -1,0 +1,9 @@
+site_name: Examples
+docs_dir: docs
+plugins:
+  - techdocs-core
+
+#sidebar navigation
+nav:
+  - Home: index.md
+  - Overview: overview.md
